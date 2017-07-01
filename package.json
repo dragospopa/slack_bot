@@ -1,0 +1,13 @@
+{
+	"name": "iBoostYou",
+	"version": "0.0.1",
+	"description": "Simple node server",
+	"main": "app.js",
+	"author": "Dragos Popa",
+	"license": "MIT",
+	"dependencies": {
+		"express": "^4.x.x",
+		"body-parser": "^1.x.x",
+		"request": "2.56.x"
+	}
+}
